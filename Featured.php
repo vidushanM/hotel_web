@@ -12,7 +12,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keywords" content="Toys Shop Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
-         Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+         Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design"/>
     <script>
         addEventListener("load", function () {
             setTimeout(hideURLbar, 0);
@@ -30,7 +30,7 @@
     <link href="css/fontawesome-all.min.css" rel="stylesheet" type="text/css" media="all">
     <!-- //font-awesome icons -->
     <!--Shoping cart-->
-    <link rel="stylesheet" href="css/shop.css" type="text/css" />
+    <link rel="stylesheet" href="css/shop.css" type="text/css"/>
     <!--//Shoping cart-->
     <!--price range-->
     <link rel="stylesheet" type="text/css" href="css/jquery-ui1.css">
@@ -79,7 +79,8 @@
                                 <span class="far fa-heart"></span>
                             </li>
                             <li>
-                                <button type="button" data-toggle="modal" data-target="#exampleModal"> <span class="far fa-user"></span></button>
+                                <button type="button" data-toggle="modal" data-target="#exampleModal"><span
+                                            class="far fa-user"></span></button>
                             </li>
                             <li class="toyscart toyscart2 cart cart box_1">
                                 <form action="#" method="post" class="last">
@@ -96,7 +97,8 @@
             </div>
         </div>
         <nav class="navbar navbar-expand-lg navbar-light">
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
@@ -114,7 +116,8 @@
                         <a href="shop.html" class="nav-link">Shop Now</a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             Pages
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -123,7 +126,8 @@
                         </div>
                     </li>
                     <li class="nav-item dropdown active">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button"
+                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             Product
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -322,10 +326,10 @@
                         </li>
                         <li>
                             <a href="#">
-                                <i class="fas fa-star" ></i>
-                                <i class="fas fa-star" ></i>
-                                <i class="fas fa-star" ></i>
-                                <i class="fas fa-star" ></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
                                 <i class="far fa-star"></i>
                                 <span>4.0</span>
                             </a>
@@ -421,147 +425,84 @@
                 <!-- //deals -->
             </div>
             <div class="left-ads-display col-lg-9">
+<!--                New row to have large widht-->
                 <div class="row">
-                    <div class="col-lg-12 col-md-6">
+                    <div class="col-lg-12 col-md-12 col-sm-12 product-men women_two">
                         <div class="product-toys-info">
                             <div class="men-pro-item">
-                                <div class="men-thumb-item">
-                                    <img src="images/shrangilla.jpg" class="img-thumbnail img-fluid" alt="">
-                                    <div class="men-cart-pro">
-                                        <div class="inner-men-cart-pro">
-                                            <a href="details.php" class="link-product-add-cart">Quick View</a>
-                                        </div>
-                                    </div>
-
-                                </div>
-                                <div class="item-info-product">
-                                    <div class="info-product-price">
-                                        <div class="grid_meta">
-                                            <div class="product_price">
-                                                <h4>
-                                                    <a href="details.php">Hotel Shrangila</a>
-                                                </h4>
-                                                <div class="grid-price mt-2">
-                                                    <span class="money ">$575.00</span>
-                                                </div>
-
-                                                <p>
-                                                    The sharangilla hotel is the largest hotel situated in the heart of thr Colombo
-                                                </p>
+                                <div class ="row">
+                                    <div class ="col-lg-3 col-md-3 col-sm-3">
+                                        <div class="men-thumb-item">
+                                        <img src="images/p3.jpg" class="img-thumbnail" alt="">
+                                        <div class="men-cart-pro">
+                                            <div class="inner-men-cart-pro">
+                                                <a href="single.html" class="link-product-add-cart">Quick View</a>
                                             </div>
-<!--                                            <ul class="stars">-->
-<!--                                                <li>-->
-<!--                                                    <a href="#">-->
-<!--                                                        <i class="fas fa-star"></i>-->
-<!--                                                    </a>-->
-<!--                                                </li>-->
-<!--                                                <li>-->
-<!--                                                    <a href="#">-->
-<!--                                                       // <i class="fas fa-star"></i>-->
-<!--                                                    </a>-->
-<!--                                                </li>-->
-<!--                                                <li>-->
-<!--                                                    <a href="#">-->
-<!--                                                        <i class="fas fa-star"></i>-->
-<!--                                                    </a>-->
-<!--                                                </li>-->
-<!--                                                <li>-->
-<!--                                                    <a href="#">-->
-<!--                                                        <i class="fas fa-star" ></i>-->
-<!--                                                    </a>-->
-<!--                                                </li>-->
-<!--                                                <li>-->
-<!--                                                    <a href="#">-->
-<!--                                                        <i class="far fa-star-half-o"></i>-->
-<!--                                                    </a>-->
-<!--                                                </li>-->
-<!--                                            </ul>-->
                                         </div>
-<!--                                        <div class="toys single-item hvr-outline-out">-->
-<!--                                            <form action="#" method="post">-->
-<!--                                                <input type="hidden" name="cmd" value="_cart">-->
-<!--                                                <input type="hidden" name="add" value="1">-->
-<!--                                                <input type="hidden" name="toys_item" value="toys(barbie)">-->
-<!--                                                <input type="hidden" name="amount" value="575.00">-->
-<!--                                                 <button type="submit" class="toys-cart ptoys-cart">-->
-<!--                                                    <i class="fas fa-cart-plus"></i>-->
-<!--                                                </button>-->
-<!--                                            </form>-->
-<!--                                        </div>-->
+                                        <span class="product-new-top">New</span>
                                     </div>
-                                    <div class="clearfix"></div>
+                                    </div>
+                                    <div class ="col-lg-6 col-md-6 col-sm-3" >
+                                        <div class="item-info-product">
+                                        <div class="info-product-price">
+                                            <div class="grid_meta">
+                                                <div class="product_price">
+                                                    <h4>
+                                                        <a href="single.html">toys (Grey)</a>
+                                                    </h4>
+                                                    <div class="grid-price mt-2">
+                                                        <span class="money ">$265.00</span>
+                                                    </div>
+                                                </div>
+                                                <ul class="stars">
+                                                    <li>
+                                                        <a href="#">
+                                                            <i class="fa fa-star" aria-hidden="true"></i>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#">
+                                                            <i class="fa fa-star" aria-hidden="true"></i>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#">
+                                                            <i class="fa fa-star" aria-hidden="true"></i>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#">
+                                                            <i class="fa fa-star" aria-hidden="true"></i>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#">
+                                                            <i class="fa fa-star-half-o" aria-hidden="true"></i>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="toys single-item hvr-outline-out">
+                                                <form action="#" method="post">
+                                                    <input type="hidden" name="cmd" value="_cart">
+                                                    <input type="hidden" name="add" value="1">
+                                                    <input type="hidden" name="toys_item" value="toys (Grey)">
+                                                    <input type="hidden" name="amount" value="265.00">
+                                                    <button type="submit" class="toys-cart ptoys-cart">
+                                                        <i class="fas fa-cart-plus"></i>
+                                                    </button>
+                                                </form>
+                                            </div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-12 col-md-6 col-sm-6 product-men women_two">
-                        <div class="product-toys-info">
-                            <div class="men-pro-item">
-                                <div class="men-thumb-item">
-                                    <img src="images/p2.jpg" class="img-thumbnail" alt="">
-                                    <div class="men-cart-pro">
-                                        <div class="inner-men-cart-pro">
-                                            <a href="single.html" class="link-product-add-cart">Quick View</a>
-                                        </div>
-                                    </div>
-
-                                </div>
-                                <div class="item-info-product">
-                                    <div class="info-product-price">
-                                        <div class="grid_meta">
-                                            <div class="product_price">
-                                                <h4>
-                                                    <a href="single.html">toy(todos)</a>
-                                                </h4>
-                                                <div class="grid-price mt-2">
-                                                    <span class="money ">$480.00</span>
-                                                </div>
-                                            </div>
-                                            <ul class="stars">
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="fas fa-star"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="fa fa-star" aria-hidden="true"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="fa fa-star" aria-hidden="true"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="fas fa-star" ></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="far fa-star-half-o" ></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="toys single-item hvr-outline-out">
-                                            <form action="#" method="post">
-                                                <input type="hidden" name="cmd" value="_cart">
-                                                <input type="hidden" name="add" value="1">
-                                                <input type="hidden" name="toys_item" value="toy(todos)">
-                                                <input type="hidden" name="amount" value="480.00">
-                                                <button type="submit" class="toys-cart ptoys-cart">
-                                                    <i class="fas fa-cart-plus"></i>
-                                                </button>
-                                            </form>
-                                        </div>
-                                    </div>
-                                    <div class="clearfix"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                </div>
+                <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-6 product-men women_two">
                         <div class="product-toys-info">
                             <div class="men-pro-item">
@@ -1049,7 +990,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-6 col-md-6 map-info-right px-0">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3150859.767904157!2d-96.62081048651531!3d39.536794757966845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1408111832978"> </iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3150859.767904157!2d-96.62081048651531!3d39.536794757966845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1408111832978"></iframe>
             </div>
             <div class="col-lg-6 col-md-6 address-w3l-right text-center">
                 <div class="address-gried ">
@@ -1111,7 +1052,8 @@
 </footer>
 <!-- //footer -->
 <!-- Modal 1-->
-<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+     aria-hidden="true">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
@@ -1159,7 +1101,8 @@
         if (this.subtotal() > 0) {
             items = this.items();
 
-            for (i = 0, len = items.length; i < len; i++) {}
+            for (i = 0, len = items.length; i < len; i++) {
+            }
         }
     });
 </script>
